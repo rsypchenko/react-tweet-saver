@@ -1,0 +1,1 @@
+export { SavedTweets as default } from './SavedTweets';
